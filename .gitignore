@@ -1,0 +1,4 @@
+# ignore the sketch design files
+*.sketch
+# ignore the .svg sources
+*.svg
